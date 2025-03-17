@@ -19,7 +19,7 @@ SeedCrypt is a Python-based cryptocurrency passphrase vault designed to securely
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/seedcrypt.git
-   cd seedsafe
+   cd seedcrypt
  
 2. Install requirements:
    ```bash
