@@ -27,4 +27,4 @@ SeedCrypt is a Python-based cryptocurrency passphrase vault designed to securely
 
 3. Run the script
    ```bash
-   python seedcrypt.py
+   python seed_crypt.py
